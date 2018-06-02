@@ -1,3 +1,5 @@
 test
 monday
 tuesday
+wednesday
+thursday
